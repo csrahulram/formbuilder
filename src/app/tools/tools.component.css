@@ -1,0 +1,18 @@
+:host{
+    display: block;
+    position: absolute;
+    left: 10px;
+    width: 300px;
+    top: 50px;
+    bottom: 10px;
+    background-color: lightseagreen;
+}
+
+textarea{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 285px;
+    /* right: 5px; */
+    bottom: 5px;
+}
